@@ -836,7 +836,7 @@ const Blog3 = styled.div`
 `;
 
 const Footer = styled.div`
-  background-image: url("/images/Group 229.png");
+  background-image: url("https://github.com/danish-ally/Organic_Portfolio/blob/main/public/images/Group%20229.png?raw=true");
   height: 400px;
   width: 100%;
   background-position: top;
